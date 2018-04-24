@@ -1,2 +1,2 @@
-# wp-jardines-maternales-municipalidad-cordoba
+# Plugin jardines maternales
 Buscador de jardines maternales de la Municipalidad de Córdoba.
